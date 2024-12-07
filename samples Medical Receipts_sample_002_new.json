@@ -1,0 +1,844 @@
+[
+      {
+            "Page_Number": 1,
+            "Table": [
+                  {
+                        "SERVICE_CODE": null,
+                        "DESCRIPTION": "LABORATORY INVESTIGATIONS",
+                        "QUANTITY": "Subtotal",
+                        "AMOUNT": "2296.51"
+                  },
+                  {
+                        "SERVICE_CODE": "HLA03074",
+                        "DESCRIPTION": "HLA DQB TYPING (PCR INT TO HIGH RES)",
+                        "QUANTITY": "1",
+                        "AMOUNT": "243.93"
+                  },
+                  {
+                        "SERVICE_CODE": "HF703102",
+                        "DESCRIPTION": "HANDLING FEE",
+                        "QUANTITY": "1",
+                        "AMOUNT": "18.00"
+                  },
+                  {
+                        "SERVICE_CODE": "HLA09027",
+                        "DESCRIPTION": "HLA ABCDR TYPING (SBT) FOR LOCAL TRANSPLANT",
+                        "QUANTITY": "1",
+                        "AMOUNT": "885.98"
+                  },
+                  {
+                        "SERVICE_CODE": "HF703102",
+                        "DESCRIPTION": "HANDLING FEE",
+                        "QUANTITY": "1",
+                        "AMOUNT": "18.00"
+                  },
+                  {
+                        "SERVICE_CODE": "10009606",
+                        "DESCRIPTION": "CREATININE CLEARANCE TEST (CCT)",
+                        "QUANTITY": "1",
+                        "AMOUNT": "24.90"
+                  },
+                  {
+                        "SERVICE_CODE": "10010709",
+                        "DESCRIPTION": "GLUCOSE-6-PHOSPHATE DEHYDROGENAS",
+                        "QUANTITY": "1",
+                        "AMOUNT": "23.30"
+                  },
+                  {
+                        "SERVICE_CODE": "10010709",
+                        "DESCRIPTION": "GLUCOSE-G-PHOSPHATE DEHYDROGENAS",
+                        "QUANTITY": "1",
+                        "AMOUNT": "23.30"
+                  },
+                  {
+                        "SERVICE_CODE": "10019326",
+                        "DESCRIPTION": "VARICELLA-ZOSTER IGG AB",
+                        "QUANTITY": "1",
+                        "AMOUNT": "43.80"
+                  },
+                  {
+                        "SERVICE_CODE": "10024120",
+                        "DESCRIPTION": "CYTOMEGALOVIRUS IGM AB",
+                        "QUANTITY": "1",
+                        "AMOUNT": "54.00"
+                  },
+                  {
+                        "SERVICE_CODE": "10025806",
+                        "DESCRIPTION": "ANTIBODY TITRATIN SALINE",
+                        "QUANTITY": "2",
+                        "AMOUNT": "86.40"
+                  },
+                  {
+                        "SERVICE_CODE": null,
+                        "DESCRIPTION": null,
+                        "QUANTITY": "1",
+                        "AMOUNT": null
+                  },
+                  {
+                        "SERVICE_CODE": "10030509",
+                        "DESCRIPTION": "VDRLTEST",
+                        "QUANTITY": "1",
+                        "AMOUNT": "38.70"
+                  },
+                  {
+                        "SERVICE_CODE": "10033603",
+                        "DESCRIPTION": "HEPATITIS B SURFACE ANTIGEN (HBS)",
+                        "QUANTITY": null,
+                        "AMOUNT": "28.70"
+                  },
+                  {
+                        "SERVICE_CODE": "10033647",
+                        "DESCRIPTION": "HEPATITIS C ANTIBODY",
+                        "QUANTITY": "1",
+                        "AMOUNT": "50.20"
+                  },
+                  {
+                        "SERVICE_CODE": "11007650",
+                        "DESCRIPTION": "VNTR ANALYSIS",
+                        "QUANTITY": "1",
+                        "AMOUNT": "297.80"
+                  },
+                  {
+                        "SERVICE_CODE": "1Z70213002",
+                        "DESCRIPTION": "ZIKA VIRUS PCR",
+                        "QUANTITY": "1",
+                        "AMOUNT": "150.00"
+                  },
+                  {
+                        "SERVICE_CODE": "22002309",
+                        "DESCRIPTION": "HIV SCREEN~",
+                        "QUANTITY": "1",
+                        "AMOUNT": "37.80"
+                  },
+                  {
+                        "SERVICE_CODE": "70205046",
+                        "DESCRIPTION": "HEPATITIS B CORE TOTAL AB",
+                        "QUANTITY": "1",
+                        "AMOUNT": "53.90"
+                  },
+                  {
+                        "SERVICE_CODE": "70205050",
+                        "DESCRIPTION": "CYTOMEGALOVIRUS IGG AB EIA",
+                        "QUANTITY": "1",
+                        "AMOUNT": "41.10"
+                  },
+                  {
+                        "SERVICE_CODE": "70205065",
+                        "DESCRIPTION": "HTLV I/II ANTIBODY",
+                        "QUANTITY": "1",
+                        "AMOUNT": "103.90"
+                  },
+                  {
+                        "SERVICE_CODE": "ABO",
+                        "DESCRIPTION": "ABO AND RHO TYPING",
+                        "QUANTITY": "2",
+                        "AMOUNT": "72.80"
+                  },
+                  {
+                        "SERVICE_CODE": "Subtotal Charges Total Charges Fayable",
+                        "DESCRIPTION": null,
+                        "QUANTITY": null,
+                        "AMOUNT": "2296.51"
+                  },
+                  {
+                        "SERVICE_CODE": "AMOUNT PAYABLE BEFORE TAX ADD : 7% GST AMOUNT PAYABLE AFTER TAX RECEVED NET AMOUNT PAYABLE",
+                        "DESCRIPTION": null,
+                        "QUANTITY": null,
+                        "AMOUNT": "2296.51 2296,51"
+                  },
+                  {
+                        "SERVICE_CODE": null,
+                        "DESCRIPTION": null,
+                        "QUANTITY": null,
+                        "AMOUNT": "160.77"
+                  },
+                  {
+                        "SERVICE_CODE": null,
+                        "DESCRIPTION": null,
+                        "QUANTITY": null,
+                        "AMOUNT": "2457.28"
+                  },
+                  {
+                        "SERVICE_CODE": null,
+                        "DESCRIPTION": null,
+                        "QUANTITY": null,
+                        "AMOUNT": "2457.28"
+                  },
+                  {
+                        "SERVICE_CODE": null,
+                        "DESCRIPTION": null,
+                        "QUANTITY": null,
+                        "AMOUNT": "2457.28"
+                  },
+                  {
+                        "SERVICE_CODE": "PAYMENT",
+                        "DESCRIPTION": "2 8 NOV 2018 Risd Cins Per",
+                        "QUANTITY": null,
+                        "AMOUNT": null
+                  },
+                  {
+                        "SERVICE_CODE": "... You are served by ZAwWiYAH BINTE ABUDULLAH **.",
+                        "DESCRIPTION": null,
+                        "QUANTITY": null,
+                        "AMOUNT": "0.00"
+                  },
+                  {
+                        "SERVICE_CODE": null,
+                        "DESCRIPTION": null,
+                        "QUANTITY": null,
+                        "AMOUNT": null
+                  },
+                  {
+                        "SERVICE_CODE": "AMOUNT DUE FROM",
+                        "DESCRIPTION": null,
+                        "QUANTITY": null,
+                        "AMOUNT": "2457 28"
+                  }
+            ],
+            "Key_Values": {
+                  "Bill_Ref_Number": ":6818337074E-0010-01",
+                  "Tax_Invoice_Date": ":22.10.2018 1546 hrs",
+                  "Patient_NRIC_HRN": ":S",
+                  "Visit_Date": "-",
+                  "Visit_Bill_Location": ":GCLHAEC/GCLHAEC/",
+                  "Payment_Class": ": Cash/Credit",
+                  "GST_REG_NO": " : M90368910N",
+                  "Page": " 1 of 2",
+                  "Total_Charges_Payable": "2296.51"
+            },
+            "raw_extraction": [
+                  {
+                        "1": "Singapore",
+                        "2": "General Hospital",
+                        "3": "SingHee'th",
+                        "4": "TAX INVOICE",
+                        "5": "ORIGINAL",
+                        "6": "GST REG NO : M90368910N GNUZBA2 / FB / 22.10.2018 1546 hrs / Page 1 of 2",
+                        "7": "Tax Invoice Number:6818337074E0010",
+                        "8": "Bill Ref Number 6818337074E-0010-01",
+                        "9": "Tax Invoice Date :22.10.2018 1546 hrs",
+                        "10": "Patient NRIC/HRN :S 1",
+                        "11": "SINGAPORE Visit Date :22.10.2018 1153 hrs",
+                        "12": "Visit / Bill Location GCLHAEC/GCLHAEC/",
+                        "13": "Patient : Kumarsanga HAE",
+                        "14": "Payment Class :PRIVATE",
+                        "15": "Type of Supply : Cash/Credit",
+                        "16": "SERVICE CODE QUANTITY AMOUNT(S$) DESCRIPTION",
+                        "17": "LABORATORYINVESTIGATIONS Subtotal 2296.51",
+                        "18": "HLA03074 HLA DQB TYPING (PCR INT TO HIGH RES) 1 243.93",
+                        "19": "HF703102 HANDLING FEE 1 18.00",
+                        "20": "HLA09027 HLA ABCDR TYPING (SBT) FOR LOCAL TRANSPLANT 1 885.98",
+                        "21": "HF703102 HANDLING FEE 18.00",
+                        "22": "10009606 CREATININE CLEARANCE TEST (CCT) 24.90",
+                        "23": "10010709 GLUCOSE-6-PHOSPHATE DEHYDROGENAS 1 23.30",
+                        "24": "10010709 GLUCOSE-G-PHOSPHATE DEHYDROGENAS 23.30",
+                        "25": "10019326 VARICELLA-ZOSTERIGGAB 43.80",
+                        "26": "10024120 CYTOMEGALOVIRUS IGMAB 1 54.00",
+                        "27": "10025806 ANTIBODY TITRATIN SALINE 2 86.40",
+                        "28": "10030509 VDRL TEST 38.70",
+                        "29": "10033603 HEPATITIS B SURFACE ANTIGEN (HBS) 1 28.70",
+                        "30": "10033647 HEPATITIS C ANTIBODY 1 50.20",
+                        "31": "11007650 VNTR ANALYSIS 1 297.80",
+                        "32": "1Z70213002 ZIKA VIRUS PCR 150.00",
+                        "33": "22002309 HIV SCREEN~ 37.80",
+                        "34": "70205046 HEPATITIS B CORE TOTAL AB 53.90",
+                        "35": "70205050 CYTOMEGALOVIRUS IGG AB EIA 41.10",
+                        "36": "70205065 HTLV /II ANTIBODY 103.90",
+                        "37": "ABO ABO AND RHO TYPING 2 72.80",
+                        "38": "Subtotal Charges 2296.51",
+                        "39": "Total Charges Fayable 2296.51",
+                        "40": " AMOUNT PAYABLE BEFORE TAX 2296,51",
+                        "41": "ADD : 7% GST 160.77",
+                        "42": "AMOUNT PAYABLE AFTER TAX 2457.28",
+                        "43": "RECEVED NET AMOUNT PAYABLE 2457.28",
+                        "44": "2457.28",
+                        "45": "2 8 NOV 2018",
+                        "46": "PAYMENT",
+                        "47": "0.00",
+                        "48": "AMOUNT DUE FROM",
+                        "49": "2457.28",
+                        "50": "You are serVed by ZAWIYAH BINTE ABUDULLAH **",
+                        "51": "Singapore General Hospital",
+                        "52": "Outram Road, Singapore 169608 Tel:6222 3322",
+                        "53": "http://www.sgh.com.sg Reg No 198703907 Z",
+                        "54": "3008-23-005-A (OCT 2014)"
+                  }
+            ]
+      },
+      {
+            "Page_Number": 3,
+            "Table": [
+                  {
+                        "DESCRIPTION": "FOUNDATION ONE SENT TO USA",
+                        "UNIT_PRICE": "8,250.00",
+                        "QTY": "1.00",
+                        "TOTAL": "8,250.00"
+                  },
+                  {
+                        "DESCRIPTION": "STIVARGA 40MG TABLET",
+                        "UNIT_PRICE": "107.50",
+                        "QTY": "63.00",
+                        "TOTAL": "6,772.50"
+                  },
+                  {
+                        "DESCRIPTION": "STIVARGA 40MG TABLET",
+                        "UNIT_PRICE": "107.50",
+                        "QTY": "63.00",
+                        "TOTAL": "6.772.50"
+                  },
+                  {
+                        "DESCRIPTION": "CRAVIT500MG TABLET",
+                        "UNIT_PRICE": "9.30",
+                        "QTY": "7.00",
+                        "TOTAL": "65.10"
+                  },
+                  {
+                        "DESCRIPTION": "DIFFLAM SOLUTION 200ML",
+                        "UNIT_PRICE": "24.20",
+                        "QTY": "2.00 Bott",
+                        "TOTAL": "48.40"
+                  },
+                  {
+                        "DESCRIPTION": "PHYSIOGEL INTENSIVE CREAM 100G",
+                        "UNIT_PRICE": "34.00",
+                        "QTY": "1.00 Tube",
+                        "TOTAL": "34.00"
+                  },
+                  {
+                        "DESCRIPTION": "RECORMON 30000U INJ",
+                        "UNIT_PRICE": "571.20",
+                        "QTY": "3.00 Unit",
+                        "TOTAL": "1,713.60"
+                  },
+                  {
+                        "DESCRIPTION": "TELFAST 180MG TABLET",
+                        "UNIT_PRICE": "1.40",
+                        "QTY": "14.00",
+                        "TOTAL": "19.60"
+                  },
+                  {
+                        "DESCRIPTION": "REPEAT CONSULT",
+                        "UNIT_PRICE": "73.00",
+                        "QTY": "1.00",
+                        "TOTAL": "73.00"
+                  },
+                  {
+                        "DESCRIPTION": "IM INJECTION SIC",
+                        "UNIT_PRICE": "17.00",
+                        "QTY": "1.00",
+                        "TOTAL": "17.00"
+                  },
+                  {
+                        "DESCRIPTION": "PORT NEEDLE INSERTION/FLUSHING",
+                        "UNIT_PRICE": "112.00",
+                        "QTY": "1,00",
+                        "TOTAL": "112.00"
+                  },
+                  {
+                        "DESCRIPTION": "PORT NEEDLE REMOVAL",
+                        "UNIT_PRICE": "34.00",
+                        "QTY": "1.00",
+                        "TOTAL": "84.00"
+                  },
+                  {
+                        "DESCRIPTION": "IV HEPARIN 1000IU/ML INJ",
+                        "UNIT_PRICE": "17.25",
+                        "QTY": "1.00 Amp",
+                        "TOTAL": "17.25"
+                  },
+                  {
+                        "DESCRIPTION": "FULL BLD COUNT. RENAL & LIVER FC02+RF05+LVA",
+                        "UNIT_PRICE": "82.00",
+                        "QTY": "1.00",
+                        "TOTAL": "82.00"
+                  },
+                  {
+                        "DESCRIPTION": "CEA",
+                        "UNIT_PRICE": "30.00",
+                        "QTY": "1.00",
+                        "TOTAL": "30.00"
+                  },
+                  {
+                        "DESCRIPTION": "IRON",
+                        "UNIT_PRICE": "10.00",
+                        "QTY": "1.00",
+                        "TOTAL": "10.00"
+                  },
+                  {
+                        "DESCRIPTION": "TIBC.INCLUDING TRANSFERRIN",
+                        "UNIT_PRICE": "20.00",
+                        "QTY": "1.00",
+                        "TOTAL": "20.00"
+                  },
+                  {
+                        "DESCRIPTION": "FERRITIN",
+                        "UNIT_PRICE": "30.00",
+                        "QTY": "1.00",
+                        "TOTAL": "30.00"
+                  },
+                  {
+                        "DESCRIPTION": "FDG-PET SCAN",
+                        "UNIT_PRICE": "2.205 00",
+                        "QTY": "1.00",
+                        "TOTAL": "2,205.00"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "UNIT_PRICE": null,
+                        "QTY": "Sub-Total",
+                        "TOTAL": "26,355.95"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "UNIT_PRICE": null,
+                        "QTY": "Add GST 7.0%",
+                        "TOTAL": "1,844.92"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "UNIT_PRICE": null,
+                        "QTY": "Rounding Adjus(ment",
+                        "TOTAL": "-0.02"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "UNIT_PRICE": null,
+                        "QTY": "Total Amounl Payable",
+                        "TOTAL": "28,200.85"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "UNIT_PRICE": "CARD Payment Received - Receipt No. 37842",
+                        "QTY": null,
+                        "TOTAL": "7,000.00"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "UNIT_PRICE": "NETS Payment Received",
+                        "QTY": null,
+                        "TOTAL": "3,000.00"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "UNIT_PRICE": null,
+                        "QTY": "Outstanding Balance",
+                        "TOTAL": null
+                  },
+                  {
+                        "DESCRIPTION": "Remark : AW NEXT VISIT",
+                        "UNIT_PRICE": null,
+                        "QTY": null,
+                        "TOTAL": "18,200.85"
+                  }
+            ],
+            "Key_Values": {
+                  "Invoice_No": "10 Jan2017",
+                  "Patient": "'J)",
+                  "GST_REG_NO": " : 200723619G",
+                  "Total_Amount_Payable": "CARD Payment Received - Recelpt No. 37842"
+            },
+            "raw_extraction": [
+                  {
+                        "1": "The Ca'ncer Centre",
+                        "2": "290 Orchard Road #17-05/06 Paragon Singapore 238859",
+                        "3": "Tel 6835.1000 Fqx6235 2261",
+                        "4": "GST Reg No : 200723619G Co Reg No : 200723619G",
+                        "5": "TAX INVOICE",
+                        "6": "Invoice No. 38737",
+                        "7": "OurReference : 04060",
+                        "8": "S( Date 10 Jan2017",
+                        "9": "PATIENT NGG",
+                        "10": "DESCRIPTION UNIT PRICE QTY NET TOTAL FEE ($)",
+                        "11": " FOUNDATION ONE SENT TO USA 8,250.00 1.00 8,250,00",
+                        "12": "STIVARGA 40MG TABLET 107.50 63.00 6,772.50",
+                        "13": "STIVARGA 40MG TABLET 107.50 63.00 6,772.50",
+                        "14": "CRAVIT 500MG TABLET 9.30 7.00 65.10",
+                        "15": "DIFFLAM SOLUTION 200ML 24.20 2.00 Bott",
+                        "16": "PHYSIOGEL INTENSIVE CREAM 100G 34.00 1.00 Tube",
+                        "17": "48.40",
+                        "18": "34.00 RECORMON 30000U INJ 571.20 3.00 Unit 1,713.60 TELFAST 180MG TABLET 14.00 19,60 REPEAT CONSULT",
+                        "19": "1.40 14.00 19,60 REPEAT CONSULT",
+                        "20": "73.00 1.00 73.00 IM INJECTION S/C 17.00 1.00",
+                        "21": "17.00 PORT NEEDLE INSERTION/FLUSHING 112.00 1,00 112.00",
+                        "22": "PORT NEEDLE REMOVAL 34.00 1.00 84.00 IV HEPARIN 1000JU/ML INJ 17.25 1.00 Amp",
+                        "23": "FULL BLD COUNT.RENAL & LIVER 17.25 82.00 FC02+RF05+LVA 1.00 82.00",
+                        "24": "CEA 30.00 1.00 30.00",
+                        "25": "IRON 30.00",
+                        "26": "10.00 1.00 10.00",
+                        "27": "TIBC. INCLUDING TRANSFERRIN 20.00 1.00 20.00",
+                        "28": "FERRITIN 20.00",
+                        "29": "30.00 1.00 30.00",
+                        "30": "FDG-PET SCAN 30.00 2.205 00 1.00 2,205.00",
+                        "31": "Sub-Total 26,355.95",
+                        "32": "Add GST 7.0% 1,844,92",
+                        "33": "Rounding Adjus(ment 0.02",
+                        "34": "Total Amount Payable 28,200.85",
+                        "35": "CARD Payment Received - Recelpt No. 37842 7.000.00",
+                        "36": "NETS Payment Received",
+                        "37": "3,000.00",
+                        "38": "Outstanding Balance 18,200.85",
+                        "39": "Remark : AW NEXT VISIT",
+                        "40": "Alf Cheques should be crossed and made payable to. RECEIVED",
+                        "41": "Cancer Centre Pte Ltd",
+                        "42": "1 2 JAN 20{7",
+                        "43": "Med Cim Regn"
+                  }
+            ]
+      },
+      {
+            "Page_Number": 4,
+            "Table": [
+                  {
+                        "DESCRIPTION": "ALBUMIN 20% INF",
+                        "UNIT_PRICE": "142.35",
+                        "QTY": "4.00",
+                        "NET_TOTAL_FEE": "569.40"
+                  },
+                  {
+                        "DESCRIPTION": "ATACAND 4MG TABLET",
+                        "UNIT_PRICE": "1.60",
+                        "QTY": "90.00 Tabs",
+                        "NET_TOTAL_FEE": "144.00"
+                  },
+                  {
+                        "DESCRIPTION": "RESOURCE BENEPROTEIN POWDER",
+                        "UNIT_PRICE": "26.35",
+                        "QTY": "2.00 Pkts",
+                        "NET_TOTAL_FEE": "$ 56.39 52.70 X"
+                  },
+                  {
+                        "DESCRIPTION": "FDGPETSCAN",
+                        "UNIT_PRICE": "2,100.00",
+                        "QTY": "1.00",
+                        "NET_TOTAL_FEE": "2,100.00"
+                  },
+                  {
+                        "DESCRIPTION": "REPEATCONSULT",
+                        "UNIT_PRICE": "73.00",
+                        "QTY": "1.00",
+                        "NET_TOTAL_FEE": "73.00"
+                  },
+                  {
+                        "DESCRIPTION": "CANNULATIONNENEPUNCTURE",
+                        "UNIT_PRICE": "34.00",
+                        "QTY": "1.00",
+                        "NET_TOTAL_FEE": "34.00"
+                  },
+                  {
+                        "DESCRIPTION": "HEPARIN SALINE100IUNSMLINJ",
+                        "UNIT_PRICE": "17.25",
+                        "QTY": "1.00",
+                        "NET_TOTAL_FEE": "17.25"
+                  },
+                  {
+                        "DESCRIPTION": "VOLUMETRIC SET FOR INFUSION",
+                        "UNIT_PRICE": "27.10",
+                        "QTY": "1.00 Unit",
+                        "NET_TOTAL_FEE": "27.10"
+                  },
+                  {
+                        "DESCRIPTION": "HYDRATION (PER HOUR BLOCK)",
+                        "UNIT_PRICE": "180.00",
+                        "QTY": "1.00",
+                        "NET_TOTAL_FEE": "180.00"
+                  },
+                  {
+                        "DESCRIPTION": "FULL BLD COUNT,RENAL &LIVER FC02+RF05+LVA",
+                        "UNIT_PRICE": "82.00",
+                        "QTY": "1.00",
+                        "NET_TOTAL_FEE": "82.00"
+                  },
+                  {
+                        "DESCRIPTION": "FULL BLD COUNT, RENAL &LIVER FC02+RF05+LVA",
+                        "UNIT_PRICE": "82.00",
+                        "QTY": "1.00",
+                        "NET_TOTAL_FEE": "82.00"
+                  },
+                  {
+                        "DESCRIPTION": "CEA",
+                        "UNIT_PRICE": "30.00",
+                        "QTY": "1.00",
+                        "NET_TOTAL_FEE": "30.00"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "UNIT_PRICE": null,
+                        "QTY": "Sub-Tolal",
+                        "NET_TOTAL_FEE": "3.391,45 237.40"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "UNIT_PRICE": null,
+                        "QTY": "Add GST 7.0%",
+                        "NET_TOTAL_FEE": null
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "UNIT_PRICE": null,
+                        "QTY": "Total Amount Payable",
+                        "NET_TOTAL_FEE": "3.628.85 3,628.85"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "UNIT_PRICE": "CARD Payment Received - Recelpt No. 39115",
+                        "QTY": null,
+                        "NET_TOTAL_FEE": null
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "UNIT_PRICE": null,
+                        "QTY": "Outstanding Balance",
+                        "NET_TOTAL_FEE": "0.00"
+                  }
+            ],
+            "Key_Values": {
+                  "GST_REG_NO": " : 200723619G",
+                  "Total_Amount_Payable": "3,628.85"
+            },
+            "raw_extraction": [
+                  {
+                        "1": "Page 20 of 20)",
+                        "2": " The Gancer Centre",
+                        "3": "290 Orchard.Road #17-05/0e Paragon Singapore 238859",
+                        "4": "Tel 6835 1000 Fax6235 2261",
+                        "5": "GST Reg No : 200723619G Co Reg No:200723619G",
+                        "6": "TAX INVOICE",
+                        "7": "Involce No. 40053",
+                        "8": "Our Reference04060",
+                        "9": "Date 04Apr 2017",
+                        "10": "PATIENT (G.. :U)",
+                        "11": "UNIT PRICE QTY NET TOTAL FEE(S)",
+                        "12": "ALBUMIN 20% INF 142.35 4.00 569.40",
+                        "13": "ATACAND 4MG TABLET 1.60 9D.00 Tabs 144.00",
+                        "14": "RESOURCE BENEPROTEIN POWDERK 26.35 2.00 Pkts $56.39 52.70 X",
+                        "15": "FDG PET SCAN 2,100.00 1.00 2,100.00",
+                        "16": "REPEAT CONSULT 73.00 1.00 73.00",
+                        "17": "CANNULATIONENEPUNCTURE 34.00 1.00 34.00",
+                        "18": "HEPARIN SALINE 100IWSML INJ 17.25 1.00 17.25",
+                        "19": "VOLUMETRIC SET FOR INFUSION 27.10 1.00 Unit 27.10",
+                        "20": "HYDRATION (PER HOUR BLOCK) 180.00 1.00 180.00",
+                        "21": "FULL BLD COUNT, RENAL & LIVER 82.00 1.00 82,00",
+                        "22": "FC02+RF05+LVA",
+                        "23": "FULL BLD COUNT,RENAL&LIVER 82.00 1.00 82.00",
+                        "24": "FC02+RF05+LVA",
+                        "25": "CEA 30.00 1,00 30.00",
+                        "26": "Sub-Tolal 3,391,45",
+                        "27": "Add GST 7.0% 237,40",
+                        "28": "Total Amount Payable 3,628.85",
+                        "29": "CARD Payment Received - Recelpt No, 39115 3,628,85",
+                        "30": "Outslanding Balance 0.00",
+                        "31": "All Cheques should be crossed and made payable to.:",
+                        "32": "f3532.46 Cancer Centre Pte Ltd",
+                        "33": "Patient is deemed to have fully understood the product, treatment procedure andlor services described on this invoice before confirming",
+                        "34": "order and making payment.",
+                        "35": "All items sold are non-refundable.",
+                        "36": "Any party who is under a contractual obligation to reimburse the medical expenses shown on this bill, is required to refund to Medisave and",
+                        "37": "Medishield QR the Medisave-approved Integsaled Plan,",
+                        "38": "To make payment to Medisave and MediShield, please send a cheque lo C PF Board or pay over the Internel (more information at",
+                        "39": "www.cpf.gov.sg). To make payment to the Medisave-approved Integrated Plan, please send a cheque directly to the privete insurer operating",
+                        "40": "the Medlsave-approved Integrated Plan. All cheques are to be accompanied with a photocopy of this bill and a payment advice on the",
+                        "41": "proportion of reimbursement to be credited to Medis ave and MediShield OR the Medlsave-approved Integrated Pian.",
+                        "42": "This is a computer generated invoice which does not require a signature",
+                        "43": "E.&0.E",
+                        "44": "RECEIVED",
+                        "45": "1 0 APR Z637",
+                        "46": " Med Cim Regn (Changi)"
+                  }
+            ]
+      },
+      {
+            "Page_Number": 2,
+            "Table": [
+                  {
+                        "DESCRIPTION": "Medication: Loperamide HCL 2mg Cap/Tab",
+                        "AMOUNT": "11.70"
+                  },
+                  {
+                        "DESCRIPTION": "PREP CHARGE FOR INFUSION BAG",
+                        "AMOUNT": "94.00"
+                  },
+                  {
+                        "DESCRIPTION": "Charges Payable",
+                        "AMOUNT": "109.30"
+                  },
+                  {
+                        "DESCRIPTION": "Total Amount Payable",
+                        "AMOUNT": "298.18"
+                  },
+                  {
+                        "DESCRIPTION": "ADJUSTMENT: ROUNDDOWNFORAMOUNTPAYABLEBYPATIENT",
+                        "AMOUNT": "0.02-"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "AMOUNT": null
+                  },
+                  {
+                        "DESCRIPTION": "PAYMENT:",
+                        "AMOUNT": "0.00"
+                  },
+                  {
+                        "DESCRIPTION": "INTEGRATED GREAT EASTERN SUPREMEHEALTH MEDISAVE",
+                        "AMOUNT": "268.36 10.80"
+                  },
+                  {
+                        "DESCRIPTION": "TOTAL DUE AFTER PAYMENT",
+                        "AMOUNT": "19.00"
+                  },
+                  {
+                        "DESCRIPTION": "DUE FROM: MEDISAVE",
+                        "AMOUNT": "RECEIVED"
+                  },
+                  {
+                        "DESCRIPTION": "INTEGRATEDGREATEASTERN SUPREMEHEALTH",
+                        "AMOUNT": "19.00 0.00"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "AMOUNT": "2 7 NOV 2018 0.00"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "AMOUNT": "ed Cim Regn"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "AMOUNT": null
+                  },
+                  {
+                        "DESCRIPTION": "FORINFORMATION",
+                        "AMOUNT": null
+                  },
+                  {
+                        "DESCRIPTION": "INTEGRATED GREAT EASTERN SUPREMEHEALTH payout consist of the following: MEDISHIELD LIFE",
+                        "AMOUNT": "251.24"
+                  },
+                  {
+                        "DESCRIPTION": "GREATEASTERNSUPREMEHEALTHADDITIONALCOVERAGE",
+                        "AMOUNT": "17.12"
+                  },
+                  {
+                        "DESCRIPTION": "For more information on the payment delails. please contact Customer service Hotine Customer Service at 1800 248 2888",
+                        "AMOUNT": null
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "AMOUNT": null
+                  },
+                  {
+                        "DESCRIPTION": "MEDISAVEA/CHOLDER CPF NO",
+                        "AMOUNT": "Amt Deducted"
+                  },
+                  {
+                        "DESCRIPTION": "s A",
+                        "AMOUNT": "10.80"
+                  },
+                  {
+                        "DESCRIPTION": "Total amount payable after GST is $319.05.",
+                        "AMOUNT": null
+                  },
+                  {
+                        "DESCRIPTION": "Total GST for this bill at 7% is $20.87 which is absorbed by the Government.",
+                        "AMOUNT": null
+                  },
+                  {
+                        "DESCRIPTION": "The amount payable by patient has been rounded down to the nearest 5 cents.",
+                        "AMOUNT": null
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "AMOUNT": null
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "AMOUNT": null
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "AMOUNT": null
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "AMOUNT": null
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "AMOUNT": null
+                  },
+                  {
+                        "DESCRIPTION": "DAGE 2 CI:",
+                        "AMOUNT": "05/54-201605,35 B3"
+                  },
+                  {
+                        "DESCRIPTION": "VIEW YOUR MEDISAVE AND/GFI MEOISIIELD LIFE CLAIM DETAILS ONLINE:",
+                        "AMOUNT": null
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "AMOUNT": null
+                  },
+                  {
+                        "DESCRIPTION": "(Pese teer lobackagefo musennorin fe Eaproyes d intire visit hliptamaetl sssu o [a  eaitlien",
+                        "AMOUNT": null
+                  }
+            ],
+            "Key_Values": {
+                  "Visit_Date": ": 26.03.2018 08:30",
+                  "Relation": "Loperamide HCL 2mg Cap/Tab",
+                  "Tax_Invoice_Date": ":08.04.2018",
+                  "Patient": "0.00",
+                  "IC_No": "'A",
+                  "GST_REG_NO": ": M2-0094564-6",
+                  "Charges_Payable": "109.30"
+            },
+            "raw_extraction": [
+                  {
+                        "1": "Tan Tock Seng No.11 Jalan Tan Tock Seng,Singapore 308433",
+                        "2": "HOSPITAL Tel: 6256 6011 (Main Line), 63577000 (Central Appointment Room), 6511 4338 (Billing Enquiries)",
+                        "3": "Fax: 6256 9234 Reg No. 199003683N",
+                        "4": "ty througts ",
+                        "5": "0087",
+                        "6": "TAX INVOICE",
+                        "7": "(Adjusted)",
+                        "8": "TO:",
+                        "9": "MDM. MRN/NRIC : S. 1",
+                        "10": "BLK i# CASE NO 1218360720I-00001",
+                        "11": "VISIT DATE : 26.03.2018 08:30",
+                        "12": "SINGAPORE LOCATION : TCT5A",
+                        "13": "INVOICE DATE : 08.04.2018",
+                        "14": "TYPE OF SUPPLY : CASH/CREDIT",
+                        "15": "GST REG NO : M2-0094564-6",
+                        "16": "PATIENT NAME : PLEASE PAY UPON RECEIPT OF THIS INVOICE",
+                        "17": "Description Amount(S$)",
+                        "18": "Medication:",
+                        "19": "Loperamide HCL 2mg Cap/Tab 11.70",
+                        "20": "PREP CHARGE FOR INFUSION BAG 94.00",
+                        "21": "Charges Payable 109.30",
+                        "22": "Total Amount Payable 298.18",
+                        "23": "ADJUSTMENT:",
+                        "24": "ROUND DOWN FOR AMOUNT PAYABLE BY PATIENT 0.02-",
+                        "25": "PAYMENT:",
+                        "26": "0.00",
+                        "27": "INTEGRATED GREAT EASTERN SUPREMEHEALTH 268.36",
+                        "28": "MEDISAVE 10.80",
+                        "29": "TOTAL DUE AFTER PAYMENT 19.00",
+                        "30": "DUE FROM:",
+                        "31": "RECEIVED 19.00",
+                        "32": "INTEGRATED GREAT EASTERN SUPREMEHEALTH 0.00",
+                        "33": "MEDISAVE 2 7 NOV 2018 0.00",
+                        "34": "edCim Regn",
+                        "35": "FORINFORMATION",
+                        "36": "INTEGRATED GREAT EASTERN SUPREMEHEALTH payout consist of the following:",
+                        "37": "MEDISHIELD LIFE 251.24",
+                        "38": "GREAT EASTERN SUPREMEHEALTH ADDITIONAL COVERAGE 17.12",
+                        "39": "For more information on the payment delails, please contact Customer service Hotline Customer Service at 1800 248 2888",
+                        "40": "MEDISAVE A/C HOLDER CPF NO Amt Deducted",
+                        "41": "s A 10.80",
+                        "42": "Total amount payable after GST is $319.05.",
+                        "43": "Total GST for this bill at 7% is $20.87 which is absorbed by the Government.",
+                        "44": "The amount payable by patient has been rounded down to the nearest 5 cents.",
+                        "45": "CS/42016535B3"
+                  }
+            ]
+      }
+]

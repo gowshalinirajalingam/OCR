@@ -1,0 +1,154 @@
+        [
+      {
+            "Page_Number": 1,
+            "Table": [
+                    {
+                        "SERVICE_CODE": "CONSULTATIONAND SERVICES",
+                        "DESCRIPTION":null,
+                        "QUANTITY": null,
+                        "TOTAL": "null"
+                  },
+                  {
+                        "SERVICE_CODE": null,
+                        "DESCRIPTION":"CONSULTATION",
+                        "QUANTITY": "Subtotal",
+                        "TOTAL": "80.00"
+                  },
+                  {
+                        "SERVICE_CODE": "CC2206" ,
+                        "DESCRIPTION":"CONSULTATION -REPEAT VISIT",
+                        "QUANTITY": 1,
+                        "TOTAL": "80.00"
+                  },
+                  {
+                        "SERVICE_CODE": null,
+                        "DESCRIPTION":null,
+                        "QUANTITY": "Subtotal Charges (before Government Subsidy)",
+                        "TOTAL": "-48.00"
+                  },
+                  {
+                        "SERVICE_CODE": null,
+                        "DESCRIPTION":null,
+                        "QUANTITY": "Less: Government Subsidy",
+                        "TOTAL": "32.00"
+                  },
+                  {
+                        "SERVICE_CODE": null ,
+                        "DESCRIPTION":null,
+                        "QUANTITY": "Subtotal Charges (after Government Subsidy)",
+                        "TOTAL": "32.00"
+                  },
+                  {
+                        "SERVICE_CODE": null,
+                        "DESCRIPTION":null,
+                        "QUANTITY": "Total Charges Payable",
+                        "TOTAL": "32.00"
+                  },
+                  {
+                        "SERVICE_CODE": "AMOUNT PAYABLE BEFORE TAX ADD : 7% GST AMOUNT PAYABLE AFTER TAX LESS : GST ABSORBED BY THE GOVERNMENT NET AMOUNT PAYABLE",
+                        "DESCRIPTION":null,
+                        "QUANTITY": null,
+                        "TOTAL": "32.00 32.00 0.00"
+                  },
+                  {
+                        "SERVICE_CODE": "AMOUNT PAYABLE BEFORE TAX",
+                        "DESCRIPTION":null,
+                        "QUANTITY": null,
+                        "TOTAL": "32.00"
+                  },
+                  {
+                        "SERVICE_CODE": "ADD : 7% GST",
+                        "DESCRIPTION":null,
+                        "QUANTITY": null,
+                        "TOTAL": "2.24"
+                  },
+                  {
+                        "SERVICE_CODE": "AMOUNT PAYABLE AFTER TAX",
+                        "DESCRIPTION":null,
+                        "QUANTITY": null,
+                        "TOTAL": "34.24"
+                  },
+                  {
+                        "SERVICE_CODE": "LESS : GST ABSORBED BY THE GOVERNMENT",
+                        "DESCRIPTION":null,
+                        "QUANTITY": null,
+                        "TOTAL": "-2.24"
+                  },
+                  {
+                        "SERVICE_CODE": "NET AMOUNT PAYABLE",
+                        "DESCRIPTION":null,
+                        "QUANTITY": null,
+                        "TOTAL": "32.00"
+                  },
+            
+                  {
+                        "SERVICE_CODE": "PAYMENT MEDISAVE FOR FLEXI CLAIM",
+                        "DESCRIPTION":null,
+                        "QUANTITY": null,
+                        "TOTAL": 32.00
+                  },
+                  {
+                        "SERVICE_CODE":  null,
+                        "DESCRIPTION":null,
+                        "QUANTITY": null,
+                        "TOTAL": 0.00
+                  },
+                  {
+                        "SERVICE_CODE": "MSVFI EXI",
+                        "DESCRIPTION":null,
+                        "QUANTITY": null,
+                        "TOTAL": null
+                  },
+                  {
+                        "SERVICE_CODE": "ST: P",
+                        "DESCRIPTION":null,
+                        "QUANTITY": null,
+                        "TOTAL": null
+                  },
+                  {
+                        "SERVICE_CODE": "Holder Name",
+                        "DESCRIPTION":null,
+                        "QUANTITY": null,
+                        "TOTAL": null
+                  },
+                  
+                  {
+                        "SERVICE_CODE": null ,
+                        "DESCRIPTION":"MSV a/c No MSV Deducted Date Time Location 30.11.2018 1220.brs Flexi MSV Deducted",
+                        "QUANTITY": null,
+                        "TOTAL": null
+                  },
+                  {
+                        "SERVICE_CODE": null,
+                        "DESCRIPTION":null,
+                        "QUANTITY": "R",
+                        "TOTAL": null
+                  },
+                  {
+                        "SERVICE_CODE": null,
+                        "DESCRIPTION":null,
+                        "QUANTITY": "H",
+                        "TOTAL": null
+                  },
+                  {
+                        "SERVICE_CODE": "* You are served by? Your next appointment.",
+                        "DESCRIPTION":null,
+                        "QUANTITY": null,
+                        "TOTAL": null
+                  }
+            ],
+            "Key_Values": {
+            	   "Tax Invoice Number":701814043610003,
+                  "Bill_Ref_Number": "Flexi MSV Deducted",
+                  "Tax_Invoice_Date": "28.09.2018 1051 hrs",
+                  "Patient NRIC/HRN":"",
+                  "Visit_Date": ":28.09.2018 0950 hrs",
+                  "Visit/ Bill Location": "CXSURO / CXSUTO/ URO",
+                  "Payment_Class": "SUB - OP (N,3,N)",
+                  "Type of Supply": "Cash/ Credit",
+                  "Page": " 1 of 1"
+
+            }
+      }
+]
+    

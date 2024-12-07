@@ -1,0 +1,1236 @@
+[
+      {
+            "Page_Number": 1,
+            "Table": [
+                  {
+                        "SERVICE_CODE": null,
+                        "DESCRIPTION": "LABORATORY INVESTIGATIONS",
+                        "QUANTITY": "Subtotal",
+                        "AMOUNT": "2296.51"
+                  },
+                  {
+                        "SERVICE_CODE": "HLA03074",
+                        "DESCRIPTION": "HLA DQB TYPING (PCR INT TO HIGH RES)",
+                        "QUANTITY": "1",
+                        "AMOUNT": "243.93"
+                  },
+                  {
+                        "SERVICE_CODE": "HF703102",
+                        "DESCRIPTION": "HANDLING FEE",
+                        "QUANTITY": "1",
+                        "AMOUNT": "18.00"
+                  },
+                  {
+                        "SERVICE_CODE": "HLA09027",
+                        "DESCRIPTION": "HLA ABCDR TYPING (SBT) FOR LOCAL TRANSPLANT",
+                        "QUANTITY": "1",
+                        "AMOUNT": "885.98"
+                  },
+                  {
+                        "SERVICE_CODE": "HF703102",
+                        "DESCRIPTION": "HANDLING FEE",
+                        "QUANTITY": "1",
+                        "AMOUNT": "18.00"
+                  },
+                  {
+                        "SERVICE_CODE": "10009606",
+                        "DESCRIPTION": "CREATININE CLEARANCE TEST (CCT)",
+                        "QUANTITY": "1",
+                        "AMOUNT": "24.90"
+                  },
+                  {
+                        "SERVICE_CODE": "10010709",
+                        "DESCRIPTION": "GLUCOSE-6-PHOSPHATE DEHYDROGENAS",
+                        "QUANTITY": "1",
+                        "AMOUNT": "23.30"
+                  },
+                  {
+                        "SERVICE_CODE": "10010709",
+                        "DESCRIPTION": "GLUCOSE-6-PHOSPHATE DEHYDROGENAS",
+                        "QUANTITY": "1",
+                        "AMOUNT": "23.30"
+                  },
+                  {
+                        "SERVICE_CODE": "10019326",
+                        "DESCRIPTION": "VARICELLA-ZOSTER IGG AB",
+                        "QUANTITY": "1",
+                        "AMOUNT": "43.80"
+                  },
+                  {
+                        "SERVICE_CODE": "10024120",
+                        "DESCRIPTION": "CYTOMEGALOVIRUS IGM AB",
+                        "QUANTITY": "1",
+                        "AMOUNT": "54.00"
+                  },
+                  {
+                        "SERVICE_CODE": "10025806",
+                        "DESCRIPTION": "ANTIBODY TITRATIN SALINE",
+                        "QUANTITY": "2",
+                        "AMOUNT": "86.40"
+                  },
+                  {
+                        "SERVICE_CODE": "10030509",
+                        "DESCRIPTION": "VDRLTEST",
+                        "QUANTITY": "1",
+                        "AMOUNT": "38.70"
+                  },
+                  {
+                        "SERVICE_CODE": "10033603",
+                        "DESCRIPTION": "HEPATITIS B SURFACE ANTIGEN (HBS)",
+                        "QUANTITY": null,
+                        "AMOUNT": "28.70"
+                  },
+                  {
+                        "SERVICE_CODE": "10033647",
+                        "DESCRIPTION": "HEPATITIS C ANTIBODY",
+                        "QUANTITY": "1",
+                        "AMOUNT": "50.20"
+                  },
+                  {
+                        "SERVICE_CODE": "11007650",
+                        "DESCRIPTION": "VNTR ANALYSIS",
+                        "QUANTITY": "1",
+                        "AMOUNT": "297.80"
+                  },
+                  {
+                        "SERVICE_CODE": "1Z70213002",
+                        "DESCRIPTION": "ZIKA VIRUS PCR",
+                        "QUANTITY": "1",
+                        "AMOUNT": "150.00"
+                  },
+                  {
+                        "SERVICE_CODE": "22002309",
+                        "DESCRIPTION": "HIV SCREEN~",
+                        "QUANTITY": "1",
+                        "AMOUNT": "37.80"
+                  },
+                  {
+                        "SERVICE_CODE": "70205046",
+                        "DESCRIPTION": "HEPATITIS B CORE TOTAL AB",
+                        "QUANTITY": "1",
+                        "AMOUNT": "53.90"
+                  },
+                  {
+                        "SERVICE_CODE": "70205050",
+                        "DESCRIPTION": "CYTOMEGALOVIRUS IGG AB EIA",
+                        "QUANTITY": "1",
+                        "AMOUNT": "41.10"
+                  },
+                  {
+                        "SERVICE_CODE": "70205065",
+                        "DESCRIPTION": "HTLV I/II ANTIBODY",
+                        "QUANTITY": "1",
+                        "AMOUNT": "103.90"
+                  },
+                  {
+                        "SERVICE_CODE": "ABO",
+                        "DESCRIPTION": "ABO AND RHO TYPING",
+                        "QUANTITY": "2",
+                        "AMOUNT": "72.80"
+                  },
+                  {
+                        "SERVICE_CODE": "Subtotal Charges",
+                        "DESCRIPTION": null,
+                        "QUANTITY": null,
+                        "AMOUNT": "2296.51"
+                  },
+                  {
+                        "SERVICE_CODE": "Total Charges Fayable",
+                        "DESCRIPTION": null,
+                        "QUANTITY": null,
+                        "AMOUNT": "2296.51"
+                  },
+                  {
+                        "SERVICE_CODE": "AMOUNT PAYABLE BEFORE TAX",
+                        "DESCRIPTION": null,
+                        "QUANTITY": null,
+                        "AMOUNT": "2296.51 2296,51"
+                  },
+                  {
+                        "SERVICE_CODE": "ADD : 7% GST",
+                        "DESCRIPTION": null,
+                        "QUANTITY": null,
+                        "AMOUNT": "160.77"
+                  },
+                  {
+                        "SERVICE_CODE": "AMOUNT PAYABLE AFTER TAX",
+                        "DESCRIPTION": null,
+                        "QUANTITY": null,
+                        "AMOUNT": "2457.28"
+                  },
+                  {
+                        "SERVICE_CODE": "NET AMOUNT PAYABLE",
+                        "DESCRIPTION": null,
+                        "QUANTITY": null,
+                        "AMOUNT": "2457.28"
+                  },
+                  {
+                        "SERVICE_CODE": null,
+                        "DESCRIPTION": null,
+                        "QUANTITY": null,
+                        "AMOUNT": "2457.28"
+                  },
+                  {
+                        "SERVICE_CODE": "PAYMENT",
+                        "DESCRIPTION": null,
+                        "QUANTITY": null,
+                        "AMOUNT": "0.00"
+                  },
+                  {
+                        "SERVICE_CODE": "AMOUNT DUE FROM",
+                        "DESCRIPTION": null,
+                        "QUANTITY": null,
+                        "AMOUNT": "2457 28"
+                  }
+            ],
+            "Key_Values": {
+                  "Tax_Invoice_Number": "6818337074E0010",
+                  "Bill_Ref_Number": ":6818337074E-0010-01",
+                  "Tax_Invoice_Date": ":22.10.2018 1546 hrs",
+                  "Patient_NRIC_HRN": ":S",
+                  "Visit_Date": "22.10.2018 1153 hrs",
+                  "Visit_Bill_Location": ":GCLHAEC/GCLHAEC/HAE",
+                  "Payment_Class": "Cash/Credit",
+                  "Type_of_Supply":"PRIVATE",
+                  "GST_REG_NO": " : M90368910N",
+                  "Page": " 1 of 2",
+                  "Total_Charges_Payable": "2296.51"
+            },
+                        "raw_extraction": [
+                  {
+                        "1": [
+                              "Singapore",
+                              1.0
+                        ],
+                        "2": [
+                              "General Hospital",
+                              0.98
+                        ],
+                        "3": [
+                              "SingHealth",
+                              0.95
+                        ],
+                        "4": [
+                              "TAX INVOICE",
+                              0.96
+                        ],
+                        "5": [
+                              "ORIGINAL",
+                              1.0
+                        ],
+                        "6": [
+                              "GST REG NO : M90368910N",
+                              0.99
+                        ],
+                        "7": [
+                              "GNUZBA2 / FB / 22.10.2018 1546 hrs / Page 1 of 2",
+                              0.96
+                        ],
+                        "8": [
+                              "Tax Invoice Number:6818337074E0010",
+                              0.98
+                        ],
+                        "9": [
+                              "Bill Ref Number",
+                              0.97
+                        ],
+                        "10": [
+                              ":6818337074E-0010-01",
+                              0.99
+                        ],
+                        "11": [
+                              "Tax Invoice Date",
+                              0.94
+                        ],
+                        "12": [
+                              ":22.10.2018 1546 hrs",
+                              1.0
+                        ],
+                        "13": [
+                              "Patient NRIC/HRN",
+                              1.0
+                        ],
+                        "14": [
+                              ":S",
+                              0.68
+                        ],
+                        "15": [
+                              "l",
+                              0.93
+                        ],
+                        "16": [
+                              "SINGAPORE",
+                              1.0
+                        ],
+                        "17": [
+                              "Visit Date",
+                              0.99
+                        ],
+                        "18": [
+                              ":22.10.2018 1153 hrs",
+                              1.0
+                        ],
+                        "19": [
+                              "Visit / Bill Location",
+                              0.95
+                        ],
+                        "20": [
+                              "GCLHAEC/GCLHAEC",
+                              0.96
+                        ],
+                        "21": [
+                              "Patient : Kumarsanga",
+                              1.0
+                        ],
+                        "22": [
+                              "HAE",
+                              1.0
+                        ],
+                        "23": [
+                              "Payment Class",
+                              0.98
+                        ],
+                        "24": [
+                              ":PRIVATE",
+                              0.99
+                        ],
+                        "25": [
+                              "Type of Supply",
+                              0.97
+                        ],
+                        "26": [
+                              ": Cash/Credit",
+                              0.98
+                        ],
+                        "27": [
+                              "SERVICE CODE",
+                              0.99
+                        ],
+                        "28": [
+                              "QUANTITY",
+                              1.0
+                        ],
+                        "29": [
+                              "AMOUNT(S$)",
+                              1.0
+                        ],
+                        "30": [
+                              "DESCRIPTION",
+                              1.0
+                        ],
+                        "31": [
+                              "LABORATORY INVESTIGATIONS",
+                              0.99
+                        ],
+                        "32": [
+                              "Subtotal",
+                              1.0
+                        ],
+                        "33": [
+                              "2296.51",
+                              0.99
+                        ],
+                        "34": [
+                              "HLA03074",
+                              1.0
+                        ],
+                        "35": [
+                              "HLA DQB TYPING (PCR INT TO HIGH RES)",
+                              0.98
+                        ],
+                        "36": [
+                              "1",
+                              1.0
+                        ],
+                        "37": [
+                              "243.93",
+                              1.0
+                        ],
+                        "38": [
+                              "HF703102",
+                              1.0
+                        ],
+                        "39": [
+                              "HANDLING FEE",
+                              0.96
+                        ],
+                        "40": [
+                              "1",
+                              1.0
+                        ],
+                        "41": [
+                              "18.00",
+                              0.97
+                        ],
+                        "42": [
+                              "HLA09027",
+                              1.0
+                        ],
+                        "43": [
+                              "HLA ABCDR TYPING (SBT) FOR LOCAL TRANSPLANT",
+                              0.97
+                        ],
+                        "44": [
+                              "1",
+                              0.95
+                        ],
+                        "45": [
+                              "885.98",
+                              1.0
+                        ],
+                        "46": [
+                              "HF703102",
+                              1.0
+                        ],
+                        "47": [
+                              "HANDLING FEE",
+                              1.0
+                        ],
+                        "47a": [
+                              "1",
+                              0.95
+                        ],
+                        "48": [
+                              "18.00",
+                              1.0
+                        ],
+                        "49": [
+                              "10009606",
+                              1.0
+                        ],
+                        "50": [
+                              "CREATININE CLEARANCE TEST (CCT)",
+                              0.96
+                        ],
+                        "50a": [
+                              "1",
+                              0.95
+                        ],
+                        "51": [
+                              "24.90",
+                              1.0
+                        ],
+                        "52": [
+                              "10010709",
+                              1.0
+                        ],
+                        "53": [
+                              "GLUCOSE-6-PHOSPHATE DEHYDROGENAS",
+                              1.0
+                        ],
+                        "54": [
+                              "1",
+                              0.99
+                        ],
+                        "55": [
+                              "23.30",
+                              1.0
+                        ],
+                        "56": [
+                              "10010709",
+                              1.0
+                        ],
+                        "57": [
+                              "GLUCOSE-G-PHOSPHATE DEHYDROGENAS",
+                              0.98
+                        ],
+                        "57a": [
+                              "1",
+                              0.95
+                        ],
+                        "58": [
+                              "23.30",
+                              1.0
+                        ],
+                        "59": [
+                              "10019326",
+                              1.0
+                        ],
+                        "60": [
+                              "VARICELLA-ZOSTER IGG AB",
+                              0.99
+                        ],
+                        "60a": [
+                              "1",
+                              0.95
+                        ],
+                        "61": [
+                              "43.80",
+                              1.0
+                        ],
+                        "62": [
+                              "10024120",
+                              1.0
+                        ],
+                        "63": [
+                              "CYTOMEGALOVIRUS IGM AB",
+                              0.97
+                        ],
+                        "64": [
+                              "1",
+                              1.0
+                        ],
+                        "65": [
+                              "54.00",
+                              1.0
+                        ],
+                        "66": [
+                              "10025806",
+                              1.0
+                        ],
+                        "67": [
+                              "ANTIBODY TITRATIN SALINE",
+                              1.0
+                        ],
+                        "68": [
+                              "2",
+                              0.99
+                        ],
+                        "69": [
+                              "86.40",
+                              1.0
+                        ],
+                        "70": [
+                              "10030509",
+                              1.0
+                        ],
+                        "71": [
+                              "VDRL TEST",
+                              1.0
+                        ],
+                        "72": [
+                              "38.70",
+                              1.0
+                        ],
+                        "73": [
+                              "10033603",
+                              1.0
+                        ],
+                        "74": [
+                              "HEPATITIS B SURFACE ANTIGEN (HBS)",
+                              0.97
+                        ],
+                        "75": [
+                              "1",
+                              1.0
+                        ],
+                        "76": [
+                              "28.70",
+                              1.0
+                        ],
+                        "77": [
+                              "10033647",
+                              1.0
+                        ],
+                        "78": [
+                              "HEPATITIS C ANTIBODY",
+                              0.96
+                        ],
+                        "79": [
+                              "1",
+                              0.97
+                        ],
+                        "80": [
+                              "50.20",
+                              0.98
+                        ],
+                        "81": [
+                              "11007650",
+                              1.0
+                        ],
+                        "82": [
+                              "VNTR ANALYSIS",
+                              0.99
+                        ],
+                        "83": [
+                              "1",
+                              1.0
+                        ],
+                        "84": [
+                              "297.80",
+                              1.0
+                        ],
+                        "85": [
+                              "1Z70213002",
+                              0.99
+                        ],
+                        "86": [
+                              "ZIKA VIRUS PCR",
+                              0.99
+                        ],
+                        "87": [
+                              "150.00",
+                              0.99
+                        ],
+                        "88": [
+                              "22002309",
+                              1.0
+                        ],
+                        "89": [
+                              "HIV SCREEN~",
+                              1.0
+                        ],
+                        "90": [
+                              "37.80",
+                              1.0
+                        ],
+                        "91": [
+                              "70205046",
+                              1.0
+                        ],
+                        "92": [
+                              "HEPATITIS B CORE TOTAL AB",
+                              0.94
+                        ],
+                        "93": [
+                              "53.90",
+                              1.0
+                        ],
+                        "94": [
+                              "70205050",
+                              1.0
+                        ],
+                        "95": [
+                              "CYTOMEGALOVIRUS IGG AB EIA",
+                              0.95
+                        ],
+                        "96": [
+                              "41.10",
+                              1.0
+                        ],
+                        "97": [
+                              "70205065",
+                              1.0
+                        ],
+                        "98": [
+                              "HTLV I/II ANTIBODY",
+                              0.93
+                        ],
+                        "98a": [
+                              "1",
+                              0.95
+                        ],
+                        "99": [
+                              "103.90",
+                              1.0
+                        ],
+                        "100": [
+                              "ABO",
+                              1.0
+                        ],
+                        "101": [
+                              "ABO AND RHO TYPING",
+                              0.94
+                        ],
+                        "102": [
+                              "2",
+                              1.0
+                        ],
+                        "103": [
+                              "72.80",
+                              1.0
+                        ],
+                        "104": [
+                              "Subtotal Charges",
+                              0.97
+                        ],
+                        "105": [
+                              "2296.51",
+                              1.0
+                        ],
+                        "106": [
+                              "Total Charges Fayable",
+                              0.96
+                        ],
+                        "107": [
+                              "2296.51",
+                              0.97
+                        ],
+                        "108": [
+                              " AMOUNT PAYABLE BEFORE TAX",
+                              0.99
+                        ],
+                        "109": [
+                              "2296.51",
+                              0.93
+                        ],
+                        "110": [
+                              "ADD : 7% GST",
+                              0.93
+                        ],
+                        "111": [
+                              "160.77",
+                              1.0
+                        ],
+                        "112": [
+                              "AMOUNT PAYABLE AFTER TAX",
+                              0.96
+                        ],
+                        "113": [
+                              "2457.28",
+                              1.0
+                        ],
+                        "114": [
+                              "RECEVED",
+                              0.96
+                        ],
+                        "115": [
+                              "NET AMOUNT PAYABLE",
+                              0.98
+                        ],
+                        "116": [
+                              "2457.28",
+                              0.99
+                        ],
+                        "117": [
+                              "2457.28",
+                              1.0
+                        ],
+                        "118": [
+                              "2 8 NOV 2018",
+                              0.98
+                        ],
+                        "119": [
+                              "PAYMENT",
+                              1.0
+                        ],
+                        "120": [
+                              "0.00",
+                              0.9
+                        ],
+                        "121": [
+                              "AMOUNT DUE FROM",
+                              0.97
+                        ],
+                        "122": [
+                              "2457.28",
+                              0.92
+                        ],
+                        "123": [
+                              "You are serVed by ZAWIYAH BINTE ABUDULLAH **",
+                              0.94
+                        ],
+                        "124": [
+                              "Singapore General Hospital",
+                              0.99
+                        ],
+                        "125": [
+                              "Outram Road, Singapore 169608 Tel:6222 3322",
+                              0.96
+                        ],
+                        "126": [
+                              "http://www.sgh.com.sg Reg No 198703907 Z",
+                              0.97
+                        ],
+                        "127": [
+                              "3008-23-005-A (OCT 2014)",
+                              0.98
+                        ]
+                  }
+            ]
+      },
+
+            {
+            "Page_Number": 2,
+            "Table": [
+                  {
+                        "DESCRIPTION": "ALBUMIN 20% INF",
+                        "UNIT_PRICE": "142.35",
+                        "QTY": "4.00",
+                        "NET_TOTAL_FEE": "569.40"
+                  },
+                  {
+                        "DESCRIPTION": "ATACAND 4MG TABLET",
+                        "UNIT_PRICE": "1.60",
+                        "QTY": "90.00 Tabs",
+                        "NET_TOTAL_FEE": "144.00"
+                  },
+                  {
+                        "DESCRIPTION": "RESOURCE BENEPROTEIN POWDER",
+                        "UNIT_PRICE": "26.35",
+                        "QTY": "2.00 Pkts",
+                        "NET_TOTAL_FEE": "$ 56.39 52.70 X"
+                  },
+                  {
+                        "DESCRIPTION": "FDG PET SCAN",
+                        "UNIT_PRICE": "2,100.00",
+                        "QTY": "1.00",
+                        "NET_TOTAL_FEE": "2,100.00"
+                  },
+                  {
+                        "DESCRIPTION": "REPEAT CONSULT",
+                        "UNIT_PRICE": "73.00",
+                        "QTY": "1.00",
+                        "NET_TOTAL_FEE": "73.00"
+                  },
+                  {
+                        "DESCRIPTION": "CANNULATIONNENEPUNCTURE",
+                        "UNIT_PRICE": "34.00",
+                        "QTY": "1.00",
+                        "NET_TOTAL_FEE": "34.00"
+                  },
+                  {
+                        "DESCRIPTION": "HEPARIN SALINE100IUNSMLINJ",
+                        "UNIT_PRICE": "17.25",
+                        "QTY": "1.00",
+                        "NET_TOTAL_FEE": "17.25"
+                  },
+                  {
+                        "DESCRIPTION": "VOLUMETRIC SET FOR INFUSION",
+                        "UNIT_PRICE": "27.10",
+                        "QTY": "1.00 Unit",
+                        "NET_TOTAL_FEE": "27.10"
+                  },
+                  {
+                        "DESCRIPTION": "HYDRATION (PER HOUR BLOCK)",
+                        "UNIT_PRICE": "180.00",
+                        "QTY": "1.00",
+                        "NET_TOTAL_FEE": "180.00"
+                  },
+                  {
+                        "DESCRIPTION": "FULL BLD COUNT,RENAL &LIVER FC02+RF05+LVA",
+                        "UNIT_PRICE": "82.00",
+                        "QTY": "1.00",
+                        "NET_TOTAL_FEE": "82.00"
+                  },
+                  {
+                        "DESCRIPTION": "FULL BLD COUNT, RENAL &LIVER FC02+RF05+LVA",
+                        "UNIT_PRICE": "82.00",
+                        "QTY": "1.00",
+                        "NET_TOTAL_FEE": "82.00"
+                  },
+                  {
+                        "DESCRIPTION": "CEA",
+                        "UNIT_PRICE": "30.00",
+                        "QTY": "1.00",
+                        "NET_TOTAL_FEE": "30.00"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "UNIT_PRICE": null,
+                        "QTY": "Sub-Tolal",
+                        "NET_TOTAL_FEE": "3,391.45"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "UNIT_PRICE": null,
+                        "QTY": "Add GST 7.0%",
+                        "NET_TOTAL_FEE": "237.40"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "UNIT_PRICE": null,
+                        "QTY": "Total Amount Payable",
+                        "NET_TOTAL_FEE": "3,628.85"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "UNIT_PRICE": "CARD Payment Received - Recelpt No. 39115",
+                        "QTY": null,
+                        "NET_TOTAL_FEE": "3,628.85"
+                  },
+                  {
+                        "DESCRIPTION": null,
+                        "UNIT_PRICE": null,
+                        "QTY": "Outstanding Balance",
+                        "NET_TOTAL_FEE": "0.00"
+                  }
+            ],
+            "Key_Values": {
+                  "GST_REG_NO": " : 200723619G",
+                  "Invoice No.":"40053",
+                  "Our Reference":"04060",
+                  "Date":"04 Apr 2017",
+                  "Total_Amount_Payable": "3,628.85"
+            },
+            "raw_extraction": [
+                  {
+                        "1": [
+                              "(Page 20 of 20)",
+                              0.88
+                        ],
+                        "2": [
+                              " The Gancer Centre",
+                              0.97
+                        ],
+                        "3": [
+                              "290 Orchard.Road #17-05/0e Paragon Singapore 238859",
+                              0.92
+                        ],
+                        "4": [
+                              "Tel 6835 1000 Fax6235 2261",
+                              0.93
+                        ],
+                        "5": [
+                              "GST Reg No : 200723619G",
+                              1.0
+                        ],
+                        "6": [
+                              "Co Reg No:200723619G",
+                              0.98
+                        ],
+                        "7": [
+                              "TAX INVOICE",
+                              1.0
+                        ],
+                        "8": [
+                              "Involce No.",
+                              0.98
+                        ],
+                        "9": [
+                              ": 40053",
+                              0.99
+                        ],
+                        "10": [
+                              "Our Reference : 04060",
+                              0.97
+                        ],
+                        "11": [
+                              "Date",
+                              1.0
+                        ],
+                        "12": [
+                              ": 04 Apr 2017",
+                              0.96
+                        ],
+                        "13": [
+                              "PATIENT",
+                              1.0
+                        ],
+                        "14": [
+                              "(G..",
+                              0.73
+                        ],
+                        "15": [
+                              ":U)",
+                              0.86
+                        ],
+                        "15a": [
+                              "DESCRIPTION",
+                              0.96
+                        ],
+                        "16": [
+                              "UNIT PRICE",
+                              0.96
+                        ],
+                        "17": [
+                              "QTY",
+                              1.0
+                        ],
+                        "18": [
+                              "NET TOTAL FEE(S)",
+                              0.97
+                        ],
+                        "19": [
+                              "ALBUMIN 20% INF",
+                              1.0
+                        ],
+                        "20": [
+                              "142.35",
+                              1.0
+                        ],
+                        "21": [
+                              "4.00",
+                              0.99
+                        ],
+                        "22": [
+                              "569.40",
+                              0.99
+                        ],
+                        "23": [
+                              "ATACAND 4MG TABLET",
+                              0.97
+                        ],
+                        "24": [
+                              "1.60",
+                              0.99
+                        ],
+                        "25": [
+                              "9D.00 Tabs",
+                              0.91
+                        ],
+                        "26": [
+                              "144.00",
+                              1.0
+                        ],
+                        "27": [
+                              "RESOURCE BENEPROTEIN POWDERK",
+                              0.97
+                        ],
+                        "28": [
+                              "26.35",
+                              0.96
+                        ],
+                        "29": [
+                              "2.00 Pkts",
+                              1.0
+                        ],
+                        "30": [
+                              "$56.39 52.70 X",
+                              0.92
+                        ],
+                        "31": [
+                              "FDG PET SCAN",
+                              0.94
+                        ],
+                        "32": [
+                              "2,100.00",
+                              1.0
+                        ],
+                        "33": [
+                              "1.00",
+                              0.97
+                        ],
+                        "34": [
+                              "2,100.00",
+                              1.0
+                        ],
+                        "35": [
+                              "REPEAT CONSULT",
+                              1.0
+                        ],
+                        "36": [
+                              "73.00",
+                              1.0
+                        ],
+                        "37": [
+                              "1.00",
+                              0.99
+                        ],
+                        "38": [
+                              "73.00",
+                              1.0
+                        ],
+                        "39": [
+                              "CANNULATIONENEPUNCTURE",
+                              1.0
+                        ],
+                        "40": [
+                              "34.00",
+                              1.0
+                        ],
+                        "41": [
+                              "1.00",
+                              0.94
+                        ],
+                        "42": [
+                              "34.00",
+                              0.97
+                        ],
+                        "43": [
+                              "HEPARIN SALINE 100IU/5ML INJ",
+                              0.97
+                        ],
+                        "44": [
+                              "17.25",
+                              1.0
+                        ],
+                        "45": [
+                              "1.00",
+                              0.96
+                        ],
+                        "46": [
+                              "17.25",
+                              0.98
+                        ],
+                        "47": [
+                              "VOLUMETRIC SET FOR INFUSION",
+                              1.0
+                        ],
+                        "48": [
+                              "27.10",
+                              0.98
+                        ],
+                        "49": [
+                              "1.00 Unit",
+                              1.0
+                        ],
+                        "50": [
+                              "27.10",
+                              1.0
+                        ],
+                        "51": [
+                              "HYDRATION (PER HOUR BLOCK)",
+                              0.94
+                        ],
+                        "52": [
+                              "180.00",
+                              0.98
+                        ],
+                        "53": [
+                              "1.00",
+                              0.99
+                        ],
+                        "54": [
+                              "180.00",
+                              1.0
+                        ],
+                        "55": [
+                              "FULL BLD COUNT, RENAL & LIVER",
+                              0.98
+                        ],
+                        "56": [
+                              "82.00",
+                              1.0
+                        ],
+                        "57": [
+                              "1.00",
+                              0.98
+                        ],
+                        "58": [
+                              "82,00",
+                              0.94
+                        ],
+                        "59": [
+                              "FC02+RF05+LVA",
+                              1.0
+                        ],
+                        "60": [
+                              "FULL BLD COUNT,RENAL&LIVER",
+                              0.96
+                        ],
+                        "61": [
+                              "82.00",
+                              1.0
+                        ],
+                        "62": [
+                              "1.00",
+                              0.99
+                        ],
+                        "63": [
+                              "82.00",
+                              0.92
+                        ],
+                        "64": [
+                              "FC02+RF05+LVA",
+                              1.0
+                        ],
+                        "65": [
+                              "CEA",
+                              0.99
+                        ],
+                        "66": [
+                              "30.00",
+                              1.0
+                        ],
+                        "67": [
+                              "1,00",
+                              0.91
+                        ],
+                        "68": [
+                              "30.00",
+                              1.0
+                        ],
+                        "69": [
+                              "Sub-Tolal",
+                              0.99
+                        ],
+                        "70": [
+                              "3,391.45",
+                              0.92
+                        ],
+                        "71": [
+                              "Add GST 7.0%",
+                              0.99
+                        ],
+                        "72": [
+                              "237.40",
+                              0.98
+                        ],
+                        "73": [
+                              "Total Amount Payable",
+                              0.96
+                        ],
+                        "74": [
+                              "3,628.85",
+                              0.99
+                        ],
+                        "75": [
+                              "CARD Payment Received - Recelpt No, 39115",
+                              0.98
+                        ],
+                        "76": [
+                              "3,628,85",
+                              0.98
+                        ],
+                        "77": [
+                              "Outslanding Balance",
+                              0.97
+                        ],
+                        "78": [
+                              "0.00",
+                              0.95
+                        ],
+                        "79": [
+                              "All Cheques should be crossed and made payable to.:",
+                              0.98
+                        ],
+                        "80": [
+                              "$3532.46",
+                              0.84
+                        ],
+                        "81": [
+                              "Cancer Centre Pte Ltd",
+                              0.99
+                        ],
+                        "82": [
+                              "Patient is deemed to have fully understood the product, treatment procedure andlor services described on this invoice before confirming",
+                              0.97
+                        ],
+                        "83": [
+                              "order and making payment.",
+                              0.98
+                        ],
+                        "84": [
+                              "All items sold are non-refundable.",
+                              0.98
+                        ],
+                        "85": [
+                              "Any party who is under a contractual obligation to reimburse the medical expenses shown on this bill, is required to refund to Medisave and",
+                              0.96
+                        ],
+                        "86": [
+                              "Medishield QR the Medisave-approved Integsaled Plan,",
+                              0.94
+                        ],
+                        "87": [
+                              "To make payment to Medisave and MediShield, please send a cheque lo C PF Board or pay over the Internel (more information at",
+                              0.98
+                        ],
+                        "88": [
+                              "www.cpf.gov.sg). To make payment to the Medisave-approved Integrated Plan, please send a cheque directly to the privete insurer operating",
+                              0.94
+                        ],
+                        "89": [
+                              "the Medlsave-approved Integrated Plan. All cheques are to be accompanied with a photocopy of this bill and a payment advice on the",
+                              0.92
+                        ],
+                        "90": [
+                              "proportion of reimbursement to be credited to Medis ave and MediShield OR the Medlsave-approved Integrated Pian.",
+                              0.96
+                        ],
+                        "91": [
+                              "This is a computer generated invoice which does not require a signature",
+                              0.97
+                        ],
+                        "92": [
+                              "E.&0.E",
+                              0.93
+                        ],
+                        "93": [
+                              "RECEIVED",
+                              1.0
+                        ],
+                        "94": [
+                              "1 0 APR 2017",
+                              0.9
+                        ],
+                        "95": [
+                              " Med Cim Regn (Changi)",
+                              0.94
+                        ]
+                  }
+            ]
+      }
+
+]
